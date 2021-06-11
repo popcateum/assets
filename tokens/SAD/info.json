@@ -1,0 +1,9 @@
+{
+  "name": "Sad Cat Finance",
+  "symbol": "SAD",
+  "description": "Sad Cat DeFi",
+  "type": "PRC20",
+  "decimals": 18,
+  "website": "https://sadcat.finance",
+  "source_code": "https://github.com/sadcatfinance"
+}
